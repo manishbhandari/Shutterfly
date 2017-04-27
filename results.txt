@@ -1,0 +1,5 @@
+('Fejes', 'West Hollywood', 'CA', 'Z123d8f53', Decimal('473740.8000000000'))
+('Smith', 'Middletown', 'AK', 'Z123d8f42', Decimal('93912.0000000000'))
+('Nannaka', 'San Diego', 'CA', 'Z123d8f48', Decimal('47408.4000000000'))
+('Verma', 'San Francisco', 'CA', 'Z123d8f49', Decimal('40544.4000000000'))
+('Smith', 'Middletown', 'AK', 'Z123d8f42', Decimal('19250.4000000000'))
